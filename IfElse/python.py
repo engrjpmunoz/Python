@@ -14,3 +14,5 @@ elif x >=10:
         
 else:
     print('Enter a number')
+    
+    
